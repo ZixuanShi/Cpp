@@ -88,7 +88,7 @@ void ExampleMovable(MovableType object)
 	MovableType newObject(std::move(object));
 }
 
-int main()
+int conceptMain()
 {
 	Foo foo;	// Supports operator * with another Foo object
 	Bar bar;	// Parent of Baz, not movable
