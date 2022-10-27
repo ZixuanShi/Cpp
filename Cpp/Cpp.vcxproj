@@ -143,9 +143,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source\Concept.cpp" />
-    <ClCompile Include="Source\Constexpr.cpp" />
-    <ClCompile Include="Source\Main.cpp" />
+    <ClCompile Include="Source\00_HelloWorld\00_HelloWorld.cpp" />
+    <ClCompile Include="Source\01_DataTypes\01_DataTypes.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
