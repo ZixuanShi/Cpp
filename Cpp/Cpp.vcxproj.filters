@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source\00_HelloWorld\00_HelloWorld.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Source\01_DataTypes\01_DataTypes.cpp">
+    <ClCompile Include="Source\02_Conditions\02_Conditions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
